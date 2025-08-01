@@ -2,8 +2,9 @@
 ````markdown
 # 📦 Web Services com Spring Boot, JPA e Hibernate
 
-Este projeto tem como objetivo o desenvolvimento de uma **API RESTful completa** utilizando as principais tecnologias do ecossistema **Java com Spring**,
- voltada para estudos, prática e aplicação de conceitos sólidos de desenvolvimento backend moderno.
+Este projeto tem como objetivo o desenvolvimento de uma **API RESTful completa**
+utilizando as principais tecnologias do ecossistema **Java com Spring**,
+voltada para estudos, prática e aplicação de conceitos sólidos de desenvolvimento backend moderno.
 
 A aplicação simula um sistema de pedidos de e-commerce (loja virtual),
 com funcionalidades como cadastro de usuários, produtos, categorias, pedidos, pagamentos, entre outros.
