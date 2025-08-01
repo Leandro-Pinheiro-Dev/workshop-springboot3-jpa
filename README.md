@@ -2,11 +2,16 @@
 ````markdown
 # 📦 Web Services com Spring Boot, JPA e Hibernate
 
-Este projeto tem como objetivo o desenvolvimento de uma **API RESTful completa** utilizando as principais tecnologias do ecossistema **Java com Spring**, voltada para estudos, prática e aplicação de conceitos sólidos de desenvolvimento backend moderno.
+Este projeto tem como objetivo o desenvolvimento de uma **API RESTful completa** utilizando as principais tecnologias do ecossistema **Java com Spring**,
+ voltada para estudos, prática e aplicação de conceitos sólidos de desenvolvimento backend moderno.
 
-A aplicação simula um sistema de pedidos de e-commerce (loja virtual), com funcionalidades como cadastro de usuários, produtos, categorias, pedidos, pagamentos, entre outros. Tudo foi estruturado com base em boas práticas de **arquitetura em camadas**, **tratamento global de exceções**, **persistência com JPA e Hibernate**, **autenticação via JWT**, além de opções de **execução com banco em memória (H2)** e **deploy em nuvem com PostgreSQL e Docker**.
+A aplicação simula um sistema de pedidos de e-commerce (loja virtual),
+com funcionalidades como cadastro de usuários, produtos, categorias, pedidos, pagamentos, entre outros.
+Tudo foi estruturado com base em boas práticas de **arquitetura em camadas**, **tratamento global de exceções**, **persistência com JPA e Hibernate**,
+**autenticação via JWT**, além de opções de **execução com banco em memória (H2)** e **deploy em nuvem com PostgreSQL e Docker**.
 
-Este projeto foi construído com fins **educacionais e profissionais**, servindo como base para quem deseja dominar o desenvolvimento de **serviços RESTful com Spring Boot** e aplicar conhecimentos em:
+Este projeto foi construído com fins **educacionais e profissionais**,
+servindo como base para quem deseja dominar o desenvolvimento de **serviços RESTful com Spring Boot** e aplicar conhecimentos em:
 
 - Modelagem de domínio com entidades JPA
 - Relacionamentos entre tabelas (OneToMany, ManyToMany, etc.)
@@ -78,6 +83,7 @@ Cada etapa foi versionada no GitHub com commits descritivos. Veja os principais 
 <img width="479" height="397" alt="Image" src="https://github.com/user-attachments/assets/80980e73-656b-4555-b5e7-fe989658096b" />
 
 apos logar:
+
 <img width="842" height="458" alt="Image" src="https://github.com/user-attachments/assets/f88f7ac2-5098-409b-b1ed-8cb3f2b8f9dc" />
 
 4. Teste via Postman (exemplos):
