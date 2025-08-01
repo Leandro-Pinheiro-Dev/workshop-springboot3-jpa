@@ -3,16 +3,18 @@
 # 📦 Web Services com Spring Boot, JPA e Hibernate
 
 Este projeto tem como objetivo o desenvolvimento de uma **API RESTful completa**
-utilizando as principais tecnologias do ecossistema **Java com Spring**,
-voltada para estudos, prática e aplicação de conceitos sólidos de desenvolvimento backend moderno.
+utilizando as principais tecnologias **Java com Spring**, voltada para estudos,
 
 A aplicação simula um sistema de pedidos de e-commerce (loja virtual),
 com funcionalidades como cadastro de usuários, produtos, categorias, pedidos, pagamentos, entre outros.
-Tudo foi estruturado com base em boas práticas de **arquitetura em camadas**, **tratamento global de exceções**, **persistência com JPA e Hibernate**,
-**autenticação via JWT**, além de opções de **execução com banco em memória (H2)** e **deploy em nuvem com PostgreSQL e Docker**.
+Tudo foi estruturado com base em boas práticas de *arquitetura em camadas**,
+**tratamento global de exceções**, **persistência com JPA e Hibernate**,
+**autenticação via JWT**, além de opções de **execução com banco em memória (H2)**
+e sugestão **deploy em nuvem com PostgreSQL e Docker**.
 
-Este projeto foi construído com fins **educacionais e profissionais**,
-servindo como base para quem deseja dominar o desenvolvimento de **serviços RESTful com Spring Boot** e aplicar conhecimentos em:
+construído com fins **educacionais e profissionais**,
+servindo como base para quem deseja dominar o desenvolvimento de **serviços RESTful com Spring Boot**
+ e aplicar conhecimentos em:
 
 - Modelagem de domínio com entidades JPA
 - Relacionamentos entre tabelas (OneToMany, ManyToMany, etc.)
@@ -154,7 +156,8 @@ A aplicação usa manipuladores globais para lidar com erros:
 * DatabaseException
 * ResourceExceptionHandler
 
-Essas classes retornam mensagens padronizadas em casos como: ID inexistente, conflitos de chave estrangeira ou requisições inválidas.
+Essas classes retornam mensagens padronizadas em casos como: ID inexistente, 
+conflitos de chave estrangeira ou requisições inválidas.
 
 ---
 
